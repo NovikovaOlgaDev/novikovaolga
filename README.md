@@ -9,6 +9,8 @@
 
 #### Currently looking for a job. See [Contacts](#Сontacts)
 
+---
+
 <p align="center"> 📱 My Apps (App Store)</p>
 <table>
     <tr>
