@@ -11,7 +11,7 @@
 
 ---
 
-<p2 align="center"> 📱 My Apps (App Store)</p2>
+<p align="center"> 📱 My Apps (App Store)</p>
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
@@ -31,7 +31,7 @@
     </tr>
 </table>
 
-<p align="center"> ###📱 My Apps </p>
+<p align="center"> 📱 My Apps </p>
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
