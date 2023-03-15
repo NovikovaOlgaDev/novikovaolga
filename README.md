@@ -46,13 +46,17 @@
     </tr>
 </table>
 
-## 📬 Contacts
+---
+
+### 📬 Contacts
 
 - **Telegram** (preferred): [@olganovikovadev](https://t.me/olganovikovadev)
 
 - **Email**: [novikovadev@gmail.com](mailto:novikovadev@gmail.com)
 
-## 🔥 My Stats
+---
+
+### 🔥 My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novikovaolga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
