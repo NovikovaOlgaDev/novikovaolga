@@ -13,15 +13,15 @@
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="100px"></td>
-      <td>VPN client based on openVPNdapter with a simple yet attractive interface. The development used a UIKit, MVC, Singleton, Delegates, UserDefaults and some libraries </td>
+      <td> описанька приложуньки </td>
       <td>Release on <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">App Store</a></td>
     </tr>
    <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/bigParty_iconApp.png" width="100px"></td>
-      <td>VPN client based on openVPNdapter with a simple yet attractive interface. The development used a UIKit, MVC, Singleton, Delegates, UserDefaults and some libraries </td>
+      <td>описанька приложуньки </td>
       <td>Release on <a href="https://github.com/Leynsboro/TR-VPN">GitHub</a></td>
     </tr>
      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/sunTimer_iconApp.png" width="100px"></td>
-      <td>VPN client based on openVPNdapter with a simple yet attractive interface. The development used a UIKit, MVC, Singleton, Delegates, UserDefaults and some libraries </td>
+      <td>описанька приложуньки </td>
       <td>Release on <a href="https://github.com/Leynsboro/TR-VPN">GitHub</a></td>
     </tr>
     </table>
