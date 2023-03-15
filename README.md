@@ -1,15 +1,15 @@
-<h1 align="center"> Hi there :wave: My name is Olga Novikova </h1>
+<h1 align="center"> Hi there 👋🏼 My name is Olga Novikova </h1>
 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif" width="200"/>
 </div>
 
-### :iphone: I'm an iOS Developer 
+### 👩🏻‍💻 I'm an iOS Developer 
 
 #### Currently looking for a job. See [Contacts](#Сontacts).
 
-<h1 align="center"> My Apps:</h1>
+<h1 align="center"> 📱 My Apps</h1>
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
@@ -29,7 +29,7 @@
     </tr>
     </table>
 
-## :mailbox_with_mail: Contacts
+## 📬 Contacts
 
 - **Telegram** (preferred): [@olganovikovadev](https://t.me/olganovikovadev)
 
@@ -37,7 +37,7 @@
 
 ---
 
-### :fire: My Stats
+### 🔥 My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novikovaolga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
