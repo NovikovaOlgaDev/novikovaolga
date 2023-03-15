@@ -9,7 +9,7 @@
 
 #### Currently looking for a job. See [Contacts](#Сontacts)
 
-<p align="center"> 📱 My Apps (App Store)</h1>
+<p align="center"> 📱 My Apps (App Store)</p>
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
@@ -29,7 +29,7 @@
     </tr>
 </table>
 
-<p align="center"> 📱 My Apps </h1>
+<p align="center"> 📱 My Apps </p>
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
