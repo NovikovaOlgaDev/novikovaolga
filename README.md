@@ -15,7 +15,8 @@
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
-      <td> описанька приложуньки </td>
+      <td> An application for learning design patterns (initial knowledge).
+The application contains a short reference guide with examples in the swift programming language, several types of testing to assess knowledge and monitor learning progress. UIKit, MVC, Auto layout, Constraints, User Defaults, Push notification were used during development. </td>
   <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">App Store</a></td>
       <td> Private <a href="https://github.com/NovikovaOlga/Patterns_AppStore">GitHub</a></td>
     </tr>
