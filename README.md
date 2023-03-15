@@ -14,7 +14,7 @@
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="100px"></td>
       <td> описанька приложуньки </td>
-      <td>Release on <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">App Store</a></td>
+      <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">App Store</a></td>
     </tr>
    <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/bigParty_iconApp.png" width="100px"></td>
       <td>описанька приложуньки </td>
