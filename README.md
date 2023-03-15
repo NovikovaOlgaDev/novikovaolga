@@ -12,17 +12,17 @@
 <h1 align="center"> My Apps:</h1>
 <table>
     <tr>
-      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="100px"></td>
+      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
       <td> описанька приложуньки </td>
       <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">App Store</a></td>
     </tr>
-   <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/bigParty_iconApp.png" width="100px"></td>
+   <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/bigParty_iconApp.png" width="80px"></td>
       <td>описанька приложуньки </td>
-      <td>Release on <a href="https://github.com/Leynsboro/TR-VPN">GitHub</a></td>
+      <td><a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">GitHub</a></td>
     </tr>
-     <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/sunTimer_iconApp.png" width="100px"></td>
+     <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/sunTimer_iconApp.png" width="80px"></td>
       <td>описанька приложуньки </td>
-      <td>Release on <a href="https://github.com/Leynsboro/TR-VPN">GitHub</a></td>
+      <td> <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">GitHub</a></td>
     </tr>
     </table>
 
