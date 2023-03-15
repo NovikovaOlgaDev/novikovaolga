@@ -30,7 +30,7 @@
 
 - **Telegram** (preferred): [@olganovikovadev](https://t.me/olganovikovadev)
 
-- **Email**: [lnovikovadev@gmail.com](mailto:novikovadev@gmail.com)
+- **Email**: [novikovadev@gmail.com](mailto:novikovadev@gmail.com)
 
 ---
 
