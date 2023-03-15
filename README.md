@@ -5,11 +5,11 @@
   <img src="https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif" width="200"/>
 </div>
 
-#### 👩🏻‍💻 I'm an iOS Developer 
+#### I'm an iOS Developer 👩🏻‍💻
 
-#### Currently looking for a job. See [Contacts](#Сontacts).
+#### Currently looking for a job. See [Contacts](#Сontacts)
 
-<h1 align="center"> 📱 My Apps</h1>
+<h1 align="center"> 📱 My Apps (App Store)</h1>
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
@@ -27,7 +27,7 @@
       <td> <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">App Store</a></td>
       <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">GitHub</a></td>
     </tr>
-    </table>
+</table>
 
 ## 📬 Contacts
 
