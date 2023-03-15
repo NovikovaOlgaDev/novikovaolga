@@ -18,11 +18,11 @@
     </tr>
    <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/bigParty_iconApp.png" width="80px"></td>
       <td>описанька приложуньки </td>
-      <td><a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">GitHub</a></td>
+      <td><a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">App Store</a></td>
     </tr>
      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/sunTimer_iconApp.png" width="80px"></td>
       <td>описанька приложуньки </td>
-      <td> <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">GitHub</a></td>
+      <td> <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">App Store</a></td>
     </tr>
     </table>
 
