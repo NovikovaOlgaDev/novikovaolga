@@ -7,7 +7,7 @@
 
 ### :iphone: I'm an iOS Developer 
 
-#### Currently looking for a job. See [Contacts](#contacts).
+#### Currently looking for a job. See [Contacts](#Сontacts).
 
 <h1 align="center"> My Apps:</h1>
 <table>
@@ -30,7 +30,7 @@
 
 - **Telegram** (preferred): [@olganovikovadev](https://t.me/olganovikovadev)
 
-- **Email**: [novikovadev@gmail.com](mailto:novikovadev@gmail.com)
+- **Email**: [lnovikovadev@gmail.com](mailto:novikovadev@gmail.com)
 
 ---
 
