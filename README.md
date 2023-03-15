@@ -11,7 +11,7 @@
 
 <h1 align="center"> 📱 My Apps </h1>
 
-### App Store
+### ✅  App Store
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
@@ -31,7 +31,7 @@
     </tr>
 </table>
 
-### Other
+### ☑️ Other
 <table>
     <tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="80px"></td>
