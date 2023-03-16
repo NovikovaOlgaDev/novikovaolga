@@ -21,16 +21,19 @@
       <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650"> App Store </a></td>
       <td> <a href="https://github.com/NovikovaOlga/Patterns_AppStore">Private GitHub</a></td>
       <td> <a href="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/README_patterns.md"> README </a> </td>
+     </tr> 
    <td align="center">
-     <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/bigParty_iconApp.png" width="100px"> AR game </td>
-      <td> Augmented reality technologies will allow your child to feed adorable pets anywhere. </td>
+     <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/bigParty_iconApp.png" width="100px"> </td>
+      <td> AR game.
+        Augmented reality technologies will allow your child to feed adorable pets anywhere. </td>
       <td> <a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">App Store</a></td>
       <td> <a href="https://github.com/NovikovaOlga/BigParty_AppStore">Private GitHub</a></td>
       <td> <a href="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/README_bigparty.md"> README </a></td>
     </tr>
  <td align="center">
-  <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/sunTimer_iconApp.png" width="100px"> Tanning timer </td>
-      <td> An application that will allow you to get a beautiful and uniform tan using a unique technique. </td>
+  <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/sunTimer_iconApp.png" width="100px"> </td>
+      <td> Tanning timer.
+      An application that will allow you to get a beautiful and uniform tan using a unique technique. </td>
       <td> <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">App Store</a></td>
       <td> <a href="https://github.com/NovikovaOlga/SunTimer_AppStore">Private GitHub</a></td>
       <td> <a href="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/README_suntimer.md"> README</a></td>
