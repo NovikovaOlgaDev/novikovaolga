@@ -7,14 +7,14 @@
 The app will send you notifications at a convenient time. </p>
 
 <p>
-   <img style="width: 180px;" src="https://github.com/NovikovaOlga/SunTimer_AppStore/blob/main/images/screen1.png">
-   <img style="width: 180px;" src="https://github.com/NovikovaOlga/SunTimer_AppStore/blob/main/images/screen2.png">
-   <img style="width: 180px;" src="https://github.com/NovikovaOlga/SunTimer_AppStore/blob/main/images/screen3.png">
-   <img style="width: 180px;" src="https://github.com/NovikovaOlga/SunTimer_AppStore/blob/main/images/screen4.png">
-   <img style="width: 180px;" src="https://github.com/NovikovaOlga/SunTimer_AppStore/blob/main/images/screen5.png">
-   <img style="width: 180px;" src="https://github.com/NovikovaOlga/SunTimer_AppStore/blob/main/images/screen6.png">
-   <img style="width: 180px;" src="https://github.com/NovikovaOlga/SunTimer_AppStore/blob/main/images/screen7.png">
-   <img style="width: 180px;" src="https://github.com/NovikovaOlga/SunTimer_AppStore/blob/main/images/screen8.png">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen1.png">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen2.png">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen3.png">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen4.png">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen5.png">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen6.png">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen7.png">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen8.png">
  <p>
 
 ## 🛠️ Technologies
