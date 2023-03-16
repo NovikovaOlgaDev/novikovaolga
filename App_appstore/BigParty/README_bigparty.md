@@ -6,14 +6,14 @@
 <p> Augmented reality technologies will allow your child to feed adorable pets anywhere. </p>
 
 <p>
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen1.png">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen2.png">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen3.png">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen4.png">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen5.jpeg">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen6.jpeg">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen7.jpeg">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen8.png">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen1.png">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen2.png">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen3.png">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen4.png">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen5.jpeg">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen6.jpeg">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen7.jpeg">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen8.png">
  <p>
 
 ## 🛠️ Technologies
@@ -48,5 +48,3 @@
  <td>Icons by <a href="https://www.flaticon.com">Freepik-Flaticon</a></td> <br />
  <td>Sounds by <a href="https://freesound.org">Freesound</a></td> <br />
  <td>3D Models by <a href="https://sketchfab.com/feed">Sketchfab</a></td> 
-
- 
