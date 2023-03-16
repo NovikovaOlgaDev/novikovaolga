@@ -15,7 +15,8 @@
 <table>
     <tr>
       <td align="center">
-       <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/pattern_iconApp.png" width="80"> </td>
+       <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/pattern_iconApp.png" width="80"> </p>
+  Learning App </td>
       <td> Learning App. The application contains a short reference guide with examples in the swift programming language (the ability to switch the code display - day/night is available), the ability to group patterns into three groups, generate a random pattern of the day, several types of testing to assess knowledge and display learning progress on diagrams (switching results - percentages / quantity), animation of correct answers in tests, monitoring the success of testing for each pattern, saving favorite patterns, push notifications. The app is available in 2 languages.</p>
   UIKit, MVC, Auto layout, Constraints, User Defaults, Push notification. </td>
       <td> <a href="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/README_patterns.md"> README </a> </td>
