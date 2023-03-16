@@ -1,10 +1,9 @@
 # Design patterns: the beginning
 
-## 🌞 An application that will allow you to get a beautiful and uniform tan. 
+## 🌞 An application for getting a tan according to the Goltis method.
 
 ## 🚀 Capabilities
-<p> The application contains a short reference guide with examples in the swift programming language, several types of testing to assess knowledge and monitor learning progress. It is provided to save your favorite patterns. 
-The app will send you notifications at a convenient time. </p>
+<p> An application that will allow you to get a beautiful and uniform tan using a unique technique. </p>
 
 <p>
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen1.png">
