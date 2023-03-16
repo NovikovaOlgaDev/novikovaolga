@@ -20,13 +20,13 @@ The application contains a brief reference guide with examples in the swift prog
   <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">App Store</a></td>
       <td> Private <a href="https://github.com/NovikovaOlga/Patterns_AppStore">GitHub</a></td>
     </tr>
-   <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/bigParty_iconApp.png" width="200px"> AR game </td>
+   <td align="center"><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/bigParty_iconApp.png" width="200px"> AR game </td>
       <td>Augmented reality app. Generation of 3D models of animals (6 types) by grid nodes according to a given algorithm around the player, arbitrary generation of a 3D model of a treat (17 types) according to a given algorithm, the ability to set a flight path for a 3D model of a treat, processing the result of collisions, sound processing of the result of collisions, animation of the particle system in collisions, saving the result of the game, push notifications with multiple types of messages. Screen animations are used. There are two types of instructions: on the device screen and in augmented reality. Three types of games. The ability to choose the color scheme of the application from 10 options. The app is available in 11 languages. For iPhone and iPad. <br /> 
  UIKit, MVC, Autolayout, Constraints, ARKit, SceneKit, User Defaults, Push notification.</td>
       <td> <a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">App Store</a></td>
       <td> Private <a href="https://github.com/NovikovaOlga/BigParty_AppStore">GitHub</a></td>
     </tr>
-     <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/sunTimer_iconApp.png" width="200px"></td>
+ <td align="center"><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/sunTimer_iconApp.png" width="200px"> Tanning timer </td>
       <td>описанька приложуньки </td>
       <td> <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">App Store</a></td>
       <td> Private <a href="https://github.com/NovikovaOlga/SunTimer_AppStore">GitHub</a></td>
