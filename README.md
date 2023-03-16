@@ -27,7 +27,7 @@ The application contains a brief reference guide with examples in the swift prog
       <td> Private <a href="https://github.com/NovikovaOlga/BigParty_AppStore">GitHub</a></td>
     </tr>
  <td align="center"><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/sunTimer_iconApp.png" width="200px"> Tanning timer </td>
-      <td>описанька приложуньки </td>
+      <td> An application for getting a tan according to the Goltis method. A local personal account with the ability to adjust user data (name, avatar), a description of the methodology, recommendations, the ability to choose a tanning scheme from 5 options, animations, monitoring the progress of tanning. At the end of the tanning time in the cycle, the timer plays a melody if the user is in the application or sends a push message if the application is minimized. UIKit, MVC, Autolayout, Constraints, CoreData, User Defaults, Push notification. </td>
       <td> <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">App Store</a></td>
       <td> Private <a href="https://github.com/NovikovaOlga/SunTimer_AppStore">GitHub</a></td>
     </tr>
