@@ -14,7 +14,7 @@
 ### ✅  App Store
 <table>
     <tr>
-      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="200"/></td>
+      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="200"> Pattern </td>
       
       <td> An application for learning design patterns (initial knowledge).
 UIKit, MVC, User Defaults, Push notification were used during development. Languages: Russian, English (USA). Devices: iphone. </td>
