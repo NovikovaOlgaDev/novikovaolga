@@ -14,7 +14,7 @@
 ### ✅  App Store
 <table>
     <tr>
-      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="200"> Learning App </td>
+      <td align="center"><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/pattern_iconApp.png" width="200"> Learning App </td>
       <td> An application for learning design patterns (initial knowledge).
 The application contains a brief reference guide with examples in the swift programming language (the ability to switch the code display - day / night is available), the ability to group patterns into three groups, generate a random pattern of the day, several types of testing to assess knowledge and display learning progress on diagrams (switching results - percentages / quantity), animation of correct answers in tests, monitoring the success of testing for each pattern, saving favorite patterns, push notifications. The app is available in 2 languages. For iPhone. <br />  UIKit, MVC, Auto layout, Constraints, User Defaults, Push notification. </td>
   <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">App Store</a></td>
