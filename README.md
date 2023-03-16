@@ -15,7 +15,7 @@
 <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/pattern_iconApp.png" width="100"> </div>
+        <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/pattern_iconApp.png" width="100">  </td> 
   Learning App </td>
       <td> An application that will help you learn popular design patterns at the initial level. </td>
       <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">App Store</a></td>
