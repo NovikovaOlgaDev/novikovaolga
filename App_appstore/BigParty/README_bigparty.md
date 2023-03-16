@@ -10,11 +10,10 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen2.png">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen3.png">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen4.png">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen5.png">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen6">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen7">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen8">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen9.png">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen5.jpeg">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen6.jpeg">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen7.jpeg">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/BigParty_AppStore/blob/main/images/screen8.png">
  <p>
 
 ## 🛠️ Technologies
@@ -45,9 +44,9 @@
  - **日本语** 
    
 ## 🖋️ Сopyright
- <td>Icons by <a href="https://icons8.ru">Icons8</a></td> 
- <td>Icons by <a href="https://www.flaticon.com">Freepik-Flaticon</a></td> 
- <td>Sounds by <a href="https://freesound.org">Freesound</a></td> 
+ <td>Icons by <a href="https://icons8.ru">Icons8</a></td> <br />
+ <td>Icons by <a href="https://www.flaticon.com">Freepik-Flaticon</a></td> <br />
+ <td>Sounds by <a href="https://freesound.org">Freesound</a></td> <br />
  <td>3D Models by <a href="https://sketchfab.com/feed">Sketchfab</a></td> 
 
  
