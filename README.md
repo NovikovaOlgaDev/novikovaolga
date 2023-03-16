@@ -22,7 +22,7 @@
       <td><a href="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/README_patterns.md">README</a></td>
     </tr>
    <td align="center">
-     <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/bigParty_iconApp.png" width="100px"> AR game </td>
+     <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/bigParty_iconApp.png" width="100px"> AR-game </td>
       <td> Augmented reality technologies will allow your child to feed adorable pets anywhere. </td>
       <td> <a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">App Store</a></td>
       <td><a href="https://github.com/NovikovaOlga/BigParty_AppStore">Private GitHub</a></td>
