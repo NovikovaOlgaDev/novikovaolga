@@ -24,7 +24,7 @@
      </tr> 
    <td align="center">
      <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/bigParty_iconApp.png" width="80"> </td>
-      <td> AR game.
+      <td> AR game.  </p>
         Augmented reality technologies will allow your child to feed adorable pets anywhere. </td>
       <td> <a href="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/README_bigparty.md"> README </a></td>
       <td> <a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">App Store</a></td>
@@ -32,7 +32,7 @@
     </tr>
  <td align="center">
   <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/sunTimer_iconApp.png" width="80"> </td>
-      <td> Tanning timer.
+      <td> Tanning timer.  </p>
       An application that will allow you to get a beautiful and uniform tan using a unique technique. </td>
       <td> <a href="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/README_suntimer.md"> README</a></td>
       <td> <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">App Store</a></td>
