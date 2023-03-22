@@ -47,9 +47,9 @@
       <td> ARKit </td>
       <td> <a href="https://github.com/NovikovaOlga/Mask/tree/main/Mask">GitHub</a></td>
     </tr>
-     <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/sunTimer_iconApp.png" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/BlackStarWearShop/blob/main/BlackStarWearShop/screens/icon.jpg" width="80px"></td>
       <td> API </td>
-      <td> <a href="https://github.com/NovikovaOlga/BlackStarWear">GitHub</a></td>
+      <td> <a href="https://github.com/NovikovaOlga/BlackStarWearShop">GitHub</a></td>
     </tr>
 </table>
 
