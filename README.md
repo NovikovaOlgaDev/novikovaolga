@@ -44,12 +44,12 @@
 <table>
     <tr>
    <td><img src="https://github.com/NovikovaOlga/Mask/blob/main/Mask/screens/icon.png" width="80px"></td>
-      <td>ARKit </td>
+      <td> ARKit </td>
       <td> <a href="https://github.com/NovikovaOlga/Mask/tree/main/Mask">GitHub</a></td>
     </tr>
      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/iconApp/sunTimer_iconApp.png" width="80px"></td>
-      <td>описанька приложуньки </td>
-      <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">GitHub</a></td>
+      <td> API </td>
+      <td> <a href="https://github.com/NovikovaOlga/BlackStarWear">GitHub</a></td>
     </tr>
 </table>
 
