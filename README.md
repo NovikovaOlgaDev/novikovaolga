@@ -59,10 +59,6 @@
       <td> Vision, CoreML </td>
       <td> <a href="https://github.com/NovikovaOlga/CatFaceLine/tree/main/HW_2_12">GitHub</a></td>
     </tr>
-      <td><img src="https://github.com/NovikovaOlga/CatFaceLine/blob/main/HW_2_12/screens/icon.png" width="80px"></td>
-      <td> Vision, CoreML </td>
-      <td> <a href="https://github.com/NovikovaOlga/CatFaceLine/tree/main/HW_2_12">GitHub</a></td>
-    </tr>
      <td><img src="https://github.com/NovikovaOlga/Weather/blob/main/HW_1_12/screen/icon.jpeg" width="80px"></td>
       <td> JSON </td>
       <td> <a href="https://github.com/NovikovaOlga/Weather/tree/main/HW_1_12">GitHub</a></td>
