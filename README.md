@@ -87,6 +87,14 @@
       <td> SpriteKit </td>
       <td> <a href="https://github.com/NovikovaOlga/Game2">GitHub</a></td>
     </tr>  
+      <td><img src="https://github.com/NovikovaOlga/AsyncSync/blob/main/HW_2_5/screens/icon.png" width="80px"></td>
+      <td> Queue </td>
+      <td> <a href="https://github.com/NovikovaOlga/AsyncSync">GitHub</a></td>
+    </tr>  
+      <td><img src="https://github.com/NovikovaOlga/LoginPassword/blob/main/HW_2_5/screens/icon.png" width="80px"></td>
+      <td> UITests </td>
+      <td> <a href="https://github.com/NovikovaOlga/LoginPassword">GitHub</a></td>
+    </tr>
 </table>
 
 ---
