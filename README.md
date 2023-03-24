@@ -95,6 +95,10 @@
       <td> UITests </td>
       <td> <a href="https://github.com/NovikovaOlga/LoginPassword">GitHub</a></td>
     </tr>
+    <td><img src="https://github.com/NovikovaOlga/Animation/blob/main/HW_1_13-animate/screens/icon.png" width="80px"></td>
+      <td> Animation </td>
+      <td> <a href="https://github.com/NovikovaOlga/Animation">GitHub</a></td>
+    </tr>
 </table>
 
 ---
