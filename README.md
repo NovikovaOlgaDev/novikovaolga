@@ -75,9 +75,9 @@
       <td> AVFoundation </td>
       <td> <a href="https://github.com/NovikovaOlga/VideoEditor">GitHub</a></td>
     </tr>  
-     <td><img src="https://github.com/NovikovaOlga/VideoEditor/blob/main/HW_2_13/screens/icon.png" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/HarryBook/blob/main/HW_2_4/screens/icon.jpg" width="80px"></td>
       <td> MVC, MVVM, Viper </td>
-      <td> <a href="https://github.com/NovikovaOlga/VideoEditor">GitHub</a></td>
+      <td> <a href="https://github.com/NovikovaOlga/HarryBook">GitHub</a></td>
     </tr>  
 </table>
 
