@@ -78,12 +78,12 @@
      <td><img src="https://github.com/NovikovaOlga/HarryBook/blob/main/HW_2_4/screens/icon.jpg" width="80px"></td>
       <td> MVC, MVVM, Viper </td>
       <td> <a href="https://github.com/NovikovaOlga/HarryBook">GitHub</a></td>
-    </tr>  
-     <td><img src="https://github.com/NovikovaOlga/Game2/blob/main/HW_2_16_p2/screens/icon.png" width="80px"></td>
+    </tr>   
+     <td><img src="https://github.com/NovikovaOlga/Game1/blob/main/HW_2_16_p1/screens/icon.png" width="80px"></td>
       <td> ARKit </td>
       <td> <a href="https://github.com/NovikovaOlga/Game1">GitHub</a></td>
     </tr>  
-     <td><img src="https://github.com/NovikovaOlga/Game1/blob/main/HW_2_16_p1/screens/icon.png" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/Game2/blob/main/HW_2_16_p2/screens/icon.png" width="80px"></td>
       <td> ARKit </td>
       <td> <a href="https://github.com/NovikovaOlga/Game2">GitHub</a></td>
     </tr>  
