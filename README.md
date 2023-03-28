@@ -63,7 +63,7 @@
       <td> JSON </td>
       <td> <a href="https://github.com/NovikovaOlga/Weather">GitHub</a></td>
     </tr>
-      <td><img src="https://github.com/NovikovaOlga/PhotoFilters/blob/main/HW_2_15/screens/icon.png" width="80px"></td>
+      <td><img src="https://github.com/NovikovaOlga/PhotoFilters/blob/main/screens/icon.png" width="80px"></td>
       <td> GPUImage </td>
       <td> <a href="https://github.com/NovikovaOlga/PhotoFilters">GitHub</a></td>
     </tr>
