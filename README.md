@@ -40,7 +40,7 @@
     </tr>
 </table>
 
-### ☑️ Other
+### ☑️ Others
 <table>
     <tr>
    <td><img src="https://github.com/NovikovaOlga/Mask/blob/main/screens/icon.png" width="80px"></td>
