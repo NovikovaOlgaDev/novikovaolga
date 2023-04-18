@@ -40,7 +40,7 @@
     </tr>
 </table>
 
-### ☑️ Other
+### ☑️ Others
 <table>
     <tr>
    <td><img src="https://github.com/NovikovaOlga/Mask/blob/main/screens/icon.png" width="80px"></td>
@@ -63,39 +63,39 @@
       <td> JSON </td>
       <td> <a href="https://github.com/NovikovaOlga/Weather">GitHub</a></td>
     </tr>
-      <td><img src="https://github.com/NovikovaOlga/PhotoFilters/blob/main/HW_2_15/screens/icon.png" width="80px"></td>
+      <td><img src="https://github.com/NovikovaOlga/PhotoFilters/blob/main/screens/icon.png" width="80px"></td>
       <td> GPUImage </td>
       <td> <a href="https://github.com/NovikovaOlga/PhotoFilters">GitHub</a></td>
     </tr>
-     <td><img src="https://github.com/NovikovaOlga/ARgame/blob/main/HW_2_14/screens/icon.png" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/icon.png" width="80px"></td>
       <td> ARKit </td>
       <td> <a href="https://github.com/NovikovaOlga/ARgame">GitHub</a></td>
     </tr>
-     <td><img src="https://github.com/NovikovaOlga/VideoEditor/blob/main/HW_2_13/screens/icon.png" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/VideoEditor/blob/main/screens/icon.png" width="80px"></td>
       <td> AVFoundation </td>
       <td> <a href="https://github.com/NovikovaOlga/VideoEditor">GitHub</a></td>
     </tr>  
-     <td><img src="https://github.com/NovikovaOlga/HarryBook/blob/main/HW_2_4/screens/icon.jpg" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/HarryBook/blob/main/screens/icon.jpg" width="80px"></td>
       <td> MVC, MVVM, Viper </td>
       <td> <a href="https://github.com/NovikovaOlga/HarryBook">GitHub</a></td>
     </tr>   
-     <td><img src="https://github.com/NovikovaOlga/Game1/blob/main/HW_2_16_p1/screens/icon.png" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/Game1/blob/main/screens/icon.png" width="80px"></td>
       <td> SpriteKit </td>
       <td> <a href="https://github.com/NovikovaOlga/Game1">GitHub</a></td>
     </tr>  
-     <td><img src="https://github.com/NovikovaOlga/Game2/blob/main/HW_2_16_p2/screens/icon.png" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/Game2/blob/main/screens/icon.png" width="80px"></td>
       <td> SpriteKit </td>
       <td> <a href="https://github.com/NovikovaOlga/Game2">GitHub</a></td>
     </tr>  
-      <td><img src="https://github.com/NovikovaOlga/AsyncSync/blob/main/HW_2_5/screens/icon.png" width="80px"></td>
+      <td><img src="https://github.com/NovikovaOlga/AsyncSync/blob/main/screens/icon.png" width="80px"></td>
       <td> Queue </td>
       <td> <a href="https://github.com/NovikovaOlga/AsyncSync">GitHub</a></td>
     </tr>  
-      <td><img src="https://github.com/NovikovaOlga/LoginPassword/blob/main/HW_2_11/screens/icon.png" width="80px"></td>
+      <td><img src="https://github.com/NovikovaOlga/LoginPassword/blob/main/screens/icon.png" width="80px"></td>
       <td> UITests </td>
       <td> <a href="https://github.com/NovikovaOlga/LoginPassword">GitHub</a></td>
     </tr>
-    <td><img src="https://github.com/NovikovaOlga/Animation/blob/main/HW_1_13-animate/screens/icon.png" width="80px"></td>
+    <td><img src="https://github.com/NovikovaOlga/Animation/blob/main/screens/icon.png" width="80px"></td>
       <td> Animation </td>
       <td> <a href="https://github.com/NovikovaOlga/Animation">GitHub</a></td>
     </tr>
