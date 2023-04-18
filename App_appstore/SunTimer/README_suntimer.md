@@ -6,7 +6,7 @@
 <p> An application that will allow you to get a beautiful and uniform tan using a unique technique. </p>
 
 <p>
-   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen1.png">
+   
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen2.png">
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen3.png">
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen4.png">
