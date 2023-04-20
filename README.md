@@ -55,7 +55,7 @@
       <td> Maps: Apple, Google, Yandex </td>
       <td> <a href="https://github.com/NovikovaOlga/Maps">GitHub</a></td>
     </tr>
-      <td><img src="https://github.com/NovikovaOlga/CatFaceLine/blob/main/screens/icon.png" width="80px"></td>
+      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/CatFaceLine/icon.png" width="80px"></td>
       <td> Vision, CoreML </td>
       <td> <a href="https://github.com/NovikovaOlga/CatFaceLine">GitHub</a></td>
     </tr>
