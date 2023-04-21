@@ -126,8 +126,8 @@ The application will request permission:
 - **access to the camera**
   
  ## Installing and launching
-- Two installation options are available:
-    - download the latest version of the app from the <a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">AppStore</a>
-    - request access to <a href="https://github.com/NovikovaOlga/BigParty_AppStore">Private GitHub</a> by contacting <a href="https://github.com/NovikovaOlga">me</a>
+Two installation options are available:
+ - download the latest version of the app from the <a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">AppStore</a>
+ - request access to <a href="https://github.com/NovikovaOlga/BigParty_AppStore">Private GitHub</a> by contacting <a href="https://github.com/NovikovaOlga">me</a>
  
  
