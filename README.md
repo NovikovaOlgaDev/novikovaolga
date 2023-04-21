@@ -7,7 +7,7 @@
 
 #### I'm an iOS Developer 👩🏻‍💻
 
-#### Currently looking for a job. See [Contacts](#contacts)
+#### Currently looking for a job. See [Contacts](#contacts).
 
 <h1 align="center"> 📱 My Apps </h1>
 
@@ -103,7 +103,9 @@
 
 ---
 
-### 📬 Contacts
+## 📨 Contacts
+
+
 
 - **Telegram** (preferred): [@olganovikovadev](https://t.me/olganovikovadev)
 
