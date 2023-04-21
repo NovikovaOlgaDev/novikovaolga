@@ -63,7 +63,7 @@
       <td> Weather App (openweathermap) </td>
       <td> <a href="https://github.com/NovikovaOlga/Weather">GitHub</a></td>
     </tr>
-      <td><img src="https://github.com/NovikovaOlga/PhotoFilters/blob/main/screens/icon.png" width="80px"></td>
+      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/PhotoFilters/icon.png" width="80px"></td>
       <td> Filters for photos and videos </td>
       <td> <a href="https://github.com/NovikovaOlga/PhotoFilters">GitHub</a></td>
     </tr>
