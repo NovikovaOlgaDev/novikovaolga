@@ -44,15 +44,15 @@
 <table>
     <tr>
    <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/icon.png" width="80px"></td>
-      <td> ARKit </td>
+      <td> Augmented reality app </td>
       <td> <a href="https://github.com/NovikovaOlga/Mask">GitHub</a></td>
     </tr>
      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Blackstarwear/icon.jpg" width="80px"></td>
-      <td> API </td>
+      <td> Online clothing store (real API) </td>
       <td> <a href="https://github.com/NovikovaOlga/BlackStarWearShop">GitHub</a></td>
     </tr>
      <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Maps/zombiIcon.png" width="80px"></td>
-      <td> Maps: Apple, Google, Yandex </td>
+      <td> Working with maps: Apple, Google, Yandex </td>
       <td> <a href="https://github.com/NovikovaOlga/Maps">GitHub</a></td>
     </tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/CatFaceLine/icon.png" width="80px"></td>
