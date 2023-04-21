@@ -7,7 +7,30 @@
 
 
 ## Capabilities
-<p></p>
+There are 4 tabs available in the application:
+- Progress:
+    - graphical display of learning outcomes
+    - switching from units of measurement to percentages is available
+    - learning progress is displayed on 4 graph rings: overall progress, as well as progress separately by pattern groups: generative, structural and behavioral
+- Training:
+    - tutorial with color indication of pattern groups
+    - there is a description of each pattern, its advantages and disadvantages, as well as an example code (created by me)
+    - when working with an example code, a description of the task and the result of the code are available
+    - on the code tab, you can switch the display in a dark and light theme
+    - click on the heart to add the pattern to the list of favorites
+    - the battery displays the progress of learning for each pattern
+    - tap on the battery to see how the tests are passed
+    - on the main page there is a description of pattern groups and the application of group filters
+- Testing
+    - Section "Testing" allows you to choose one of 4 tests (for better assimilation, you need to pass all 4 tests)
+    - Section "Study right now" displays data about the pattern of the day (every day a new arbitrary parterre is offered by the system for study or repetition)
+    - Section "Studied" displays cards of studied patterns (if you have not studied a single pattern, then the section will be empty)
+    - Section "Not studied" displays cards of not studied patterns (if you have studied all the patterns, then the section will be empty)
+    - The "Favorite" section displays cards of patterns that you marked with a heart in the textbook
+- Settings tab:
+    - allows you to choose a convenient time to receive push messages
+    - allows you to reset progress and start learning again
+    - contains copyright information on images used in the application
 
 <p>
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/images_patterns/screen1.png">
