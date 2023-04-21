@@ -11,7 +11,7 @@ There are 4 tabs available in the application:
 - Progress:
     - graphical display of learning outcomes
     - switching from units of measurement to percentages is available
-    - learning progress is displayed on 4 graph rings: overall progress, as well as progress separately by pattern groups: generative, structural and behavioral
+    - learning progress is displayed on 4 graph rings: overall progress, as well as progress separately by pattern groups: creational, structural and behavioral
 - Training:
     - tutorial with color indication of pattern groups
     - there is a description of each pattern, its advantages and disadvantages, as well as an example code (created by me)
