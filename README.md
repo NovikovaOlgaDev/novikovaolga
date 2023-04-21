@@ -67,7 +67,7 @@
       <td> Filters for photos and videos </td>
       <td> <a href="https://github.com/NovikovaOlga/PhotoFilters">GitHub</a></td>
     </tr>
-     <td><img src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/icon.png" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/ARgame/icon.png" width="80px"></td>
       <td> Augmented Reality Games </td>
       <td> <a href="https://github.com/NovikovaOlga/ARgame">GitHub</a></td>
     </tr>
