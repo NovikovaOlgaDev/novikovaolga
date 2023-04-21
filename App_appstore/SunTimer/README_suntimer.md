@@ -1,4 +1,4 @@
-# Design patterns: the beginning
+# Tan timer
 
 ## 🌞 An application for getting a tan according to the Goltis method.
 
