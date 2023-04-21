@@ -7,7 +7,7 @@
 
 #### I'm an iOS Developer 👩🏻‍💻
 
-#### Currently looking for a job. See [Contacts](#Сontacts)
+#### Currently looking for a job. See [Contacts](#contacts).
 
 <h1 align="center"> 📱 My Apps </h1>
 
@@ -95,7 +95,7 @@
       <td> Validation check (UITests) </td>
       <td> <a href="https://github.com/NovikovaOlga/LoginPassword">GitHub</a></td>
     </tr>
-    <td><img src="https://github.com/NovikovaOlga/Animation/blob/main/screens/icon.png" width="80px"></td>
+    <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Animation/icon.png" width="80px"></td>
       <td> Simple animation examples </td>
       <td> <a href="https://github.com/NovikovaOlga/Animation">GitHub</a></td>
     </tr>
@@ -104,15 +104,12 @@
 ---
 
 ### 📬 Contacts
-
 - **Telegram** (preferred): [@olganovikovadev](https://t.me/olganovikovadev)
-
 - **Email**: [novikovadev@gmail.com](mailto:novikovadev@gmail.com)
 
 ---
 
 ### 🔥 My Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovikovaOlga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NovikovaOlga&theme=highcontrast&border_radius=4&mode=weekly)](https://git.io/streak-stats)
