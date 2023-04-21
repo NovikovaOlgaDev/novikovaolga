@@ -28,8 +28,6 @@
  - **Push notification**
 
 ## Libraries
- - **FLAnimatedImage [(https://github.com/Flipboard/FLAnimatedImage)](https://github.com/Flipboard/FLAnimatedImage)**
- - **Charts [(https://github.com/danielgindi/Charts)](https://github.com/danielgindi/Charts)**
  - **[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)**
  - **[Charts](https://github.com/danielgindi/Charts)**
   
@@ -40,13 +38,13 @@
  - **english (USA)**
  - **русский** 
 
-## 🖋️ Сopyright
+## Сopyright
  <td>Icons by <a href="https://icons8.ru">Icons8</a></td> 
   
 ## Installing and launching
 
 Two installation options are available:
-- download the latest version of the app from the AppStore
+- download the latest version of the app from the [AppStore ](https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650)
 - request access to Private GitHub by contacting me
   
 <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650"> App Store </a>
