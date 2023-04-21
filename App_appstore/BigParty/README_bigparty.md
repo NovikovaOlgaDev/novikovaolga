@@ -52,7 +52,6 @@ There are 3 game options available in the app:
    <p> 3D models of third-party authors from the portal were used: https://sketchfab.com/feed </p> 
  
 <p>
- 
 <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p1.png">  
 <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p2.png">   
 <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p3.png">  
@@ -78,6 +77,12 @@ There are 3 game options available in the app:
 <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f17.png">  
  
  </p>
+ 
+ ## Particles (for collision)
+<p>
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/gif_bigparty/particle2.gif">
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/gif_bigparty/particle1.gif">
+<p>
   
 ## Technologies
  - **UIKit**
@@ -88,6 +93,9 @@ There are 3 game options available in the app:
  - **SceneKit**
  - **User Defaults**
  - **Push notification**
+ - **OptionSet(for collision)**
+ - **model (.usdz)**
+ - **Animation**
 
 ## Devices
  - **iPhone**
@@ -111,5 +119,15 @@ There are 3 game options available in the app:
  <td>Icons by <a href="https://www.flaticon.com">Freepik-Flaticon</a></td> <br />
  <td>Sounds by <a href="https://freesound.org">Freesound</a></td> <br />
  <td>3D Models by <a href="https://sketchfab.com/feed">Sketchfab</a></td> 
+ 
+  ## Privacy
+The application will request permission:
+- **to send Push**
+- **access to the camera**
   
-  ## Installing and launching
+ ## Installing and launching
+Two installation options are available:
+ - download the latest version of the app from the <a href="https://apps.apple.com/us/app/big-party-ar-игра/id6443662796">AppStore</a>
+ - request access to <a href="https://github.com/NovikovaOlga/BigParty_AppStore">Private GitHub</a> by contacting <a href="https://github.com/NovikovaOlga">me</a>
+ 
+ 
