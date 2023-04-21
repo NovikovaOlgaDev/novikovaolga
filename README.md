@@ -18,7 +18,7 @@
        <img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/pattern_iconApp.png" width="80"> </p>
   Learning App </td>
       <td> The application contains a short reference guide with examples in the swift programming language (the ability to switch the code display - day/night is available), the ability to group patterns into three groups, generate a random pattern of the day, several types of testing to assess knowledge and display learning progress on diagrams (switching results - percentages / quantity), animation of correct answers in tests, monitoring the success of testing for each pattern, saving favorite patterns, push notifications. The app is available in 2 languages. </td>
-      <td> <a href="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/README_patterns.md"> README </a> </td>
+      <td> <a href="https://github.com/NovikovaOlga/Patterns_AppStore/blob/main/README.md"> README </a> </td>
       <td> <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650"> App Store </a></td>
       <td> <a href="https://github.com/NovikovaOlga/Patterns_AppStore">Private GitHub</a></td>
      </tr> 
