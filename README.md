@@ -75,7 +75,7 @@
       <td> Video editor </td>
       <td> <a href="https://github.com/NovikovaOlga/VideoEditor">GitHub</a></td>
     </tr>  
-     <td><img src="https://github.com/NovikovaOlga/HarryBook/blob/main/screens/icon.jpg" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/HarryBook/icon.jpg" width="80px"></td>
       <td> HarryBook (MVC, MVVM, Viper) </td>
       <td> <a href="https://github.com/NovikovaOlga/HarryBook">GitHub</a></td>
     </tr>   
