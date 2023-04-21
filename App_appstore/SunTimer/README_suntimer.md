@@ -47,6 +47,6 @@ The application will request permission:
 ## Installing and launching
 Two installation options are available:
  - download the latest version of the app from the <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">AppStore</a>
- - request access to <a href="https://github.com/NovikovaOlga/SunTimer_AppStoree">Private GitHub</a> by contacting <a href="https://github.com/NovikovaOlga">me</a>
+ - request access to <a href="https://github.com/NovikovaOlga/SunTimer_AppStore">Private GitHub</a> by contacting <a href="https://github.com/NovikovaOlga">me</a>
   
   
