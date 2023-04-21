@@ -31,8 +31,16 @@
  - **MVC** 
  - **Autolayout**
  - **Constraints**
+ - **Xib**  
+ - **CoreData**
  - **User Defaults**
  - **Push notification**
+ - **UserNotifications**  
+ - **FLAnimatedImage**
+ - **Animation**
+ - **AVFoundation**
+  
+  
 
 ## Libraries
  - **[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)**
