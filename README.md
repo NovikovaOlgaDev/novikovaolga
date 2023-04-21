@@ -95,7 +95,7 @@
       <td> Validation check (UITests) </td>
       <td> <a href="https://github.com/NovikovaOlga/LoginPassword">GitHub</a></td>
     </tr>
-    <td><img src="https://github.com/NovikovaOlga/Animation/blob/main/screens/icon.png" width="80px"></td>
+    <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Animation/icon.png" width="80px"></td>
       <td> Simple animation examples </td>
       <td> <a href="https://github.com/NovikovaOlga/Animation">GitHub</a></td>
     </tr>
