@@ -56,47 +56,47 @@
       <td> <a href="https://github.com/NovikovaOlga/Maps">GitHub</a></td>
     </tr>
       <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/CatFaceLine/icon.png" width="80px"></td>
-      <td> Vision, CoreML </td>
+      <td> Neural networks and not only </td>
       <td> <a href="https://github.com/NovikovaOlga/CatFaceLine">GitHub</a></td>
     </tr>
      <td><img src="https://github.com/NovikovaOlga/Weather/blob/main/screen/icon.jpeg" width="80px"></td>
-      <td> JSON </td>
+      <td> Weather App (openweathermap) </td>
       <td> <a href="https://github.com/NovikovaOlga/Weather">GitHub</a></td>
     </tr>
       <td><img src="https://github.com/NovikovaOlga/PhotoFilters/blob/main/screens/icon.png" width="80px"></td>
-      <td> GPUImage </td>
+      <td> Filters for photos and videos </td>
       <td> <a href="https://github.com/NovikovaOlga/PhotoFilters">GitHub</a></td>
     </tr>
      <td><img src="https://github.com/NovikovaOlga/ARgame/blob/main/screens/icon.png" width="80px"></td>
-      <td> ARKit </td>
+      <td> Augmented Reality Games </td>
       <td> <a href="https://github.com/NovikovaOlga/ARgame">GitHub</a></td>
     </tr>
      <td><img src="https://github.com/NovikovaOlga/VideoEditor/blob/main/screens/icon.png" width="80px"></td>
-      <td> AVFoundation </td>
+      <td> Video editor </td>
       <td> <a href="https://github.com/NovikovaOlga/VideoEditor">GitHub</a></td>
     </tr>  
      <td><img src="https://github.com/NovikovaOlga/HarryBook/blob/main/screens/icon.jpg" width="80px"></td>
-      <td> MVC, MVVM, Viper </td>
+      <td> HarryBook (MVC, MVVM, Viper) </td>
       <td> <a href="https://github.com/NovikovaOlga/HarryBook">GitHub</a></td>
     </tr>   
      <td><img src="https://github.com/NovikovaOlga/Game1/blob/main/screens/icon.png" width="80px"></td>
-      <td> SpriteKit </td>
+      <td> A simple game </td>
       <td> <a href="https://github.com/NovikovaOlga/Game1">GitHub</a></td>
     </tr>  
      <td><img src="https://github.com/NovikovaOlga/Game2/blob/main/screens/icon.png" width="80px"></td>
-      <td> SpriteKit </td>
+      <td> A simple game </td>
       <td> <a href="https://github.com/NovikovaOlga/Game2">GitHub</a></td>
     </tr>  
       <td><img src="https://github.com/NovikovaOlga/AsyncSync/blob/main/screens/icon.png" width="80px"></td>
-      <td> Queue </td>
+      <td> Multithreading </td>
       <td> <a href="https://github.com/NovikovaOlga/AsyncSync">GitHub</a></td>
     </tr>  
       <td><img src="https://github.com/NovikovaOlga/LoginPassword/blob/main/screens/icon.png" width="80px"></td>
-      <td> UITests </td>
+      <td> Validation check (UITests) </td>
       <td> <a href="https://github.com/NovikovaOlga/LoginPassword">GitHub</a></td>
     </tr>
     <td><img src="https://github.com/NovikovaOlga/Animation/blob/main/screens/icon.png" width="80px"></td>
-      <td> Animation </td>
+      <td> Simple animation examples </td>
       <td> <a href="https://github.com/NovikovaOlga/Animation">GitHub</a></td>
     </tr>
 </table>
