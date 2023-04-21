@@ -41,6 +41,12 @@
  <td>Icons by <a href="https://icons8.ru">Icons8</a></td>
     
 ## Privacy
+The application will request permission:
+- to send Push
     
 ## Installing and launching
-
+Two installation options are available:
+ - download the latest version of the app from the <a href="https://apps.apple.com/us/app/sun-timer/id1636716597">AppStore</a>
+ - request access to <a href="https://github.com/NovikovaOlga/SunTimer_AppStoree">Private GitHub</a> by contacting <a href="https://github.com/NovikovaOlga">me</a>
+  
+  
