@@ -45,4 +45,4 @@
 
 Two installation options are available:
 - download the latest version of the app from the [AppStore](https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650)
-- request access to Private [GitHub](https://github.com/NovikovaOlga/Patterns_AppStore) by contacting me [me](https://github.com/NovikovaOlga/novikovaolga/blob/main/README.md)
+- request access to [Private GitHub](https://github.com/NovikovaOlga/Patterns_AppStore) by contacting [me](https://github.com/NovikovaOlga/novikovaolga/blob/main/README.md)
