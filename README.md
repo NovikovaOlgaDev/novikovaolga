@@ -114,5 +114,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NovikovaOlga&theme=highcontrast&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
-https://platane.github.io/snk/
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
