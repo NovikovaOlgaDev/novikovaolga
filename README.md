@@ -71,7 +71,7 @@
       <td> Augmented Reality Games </td>
       <td> <a href="https://github.com/NovikovaOlga/ARgame">GitHub</a></td>
     </tr>
-     <td><img src="https://github.com/NovikovaOlga/VideoEditor/blob/main/screens/icon.png" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/VideoEditor/icon.png" width="80px"></td>
       <td> Video editor </td>
       <td> <a href="https://github.com/NovikovaOlga/VideoEditor">GitHub</a></td>
     </tr>  
