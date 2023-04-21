@@ -49,8 +49,36 @@ There are 3 game options available in the app:
  <p>
   
 ## 3D Model
+   <p> 3D models of third-party authors from the portal were used: https://sketchfab.com/feed </p> 
+ 
+<p>
+ 
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p1.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p2.png">   
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p3.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p4.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p5.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p6.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f1.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f2.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f3.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f4.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f5.png"> 
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f6.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f7.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f8.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f9.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f10.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f11.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f12.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f13.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f14.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f15.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f16.png">  
+<img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f17.png">  
+ 
+ </p>
   
-
 ## Technologies
  - **UIKit**
  - **MVC** 
