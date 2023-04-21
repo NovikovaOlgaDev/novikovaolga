@@ -38,17 +38,24 @@
  - **FLAnimatedImage**
  - **Charts**
 
-## 📚 Libraries
+## Libraries
 
  - **[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)**
  - **[Charts](https://github.com/danielgindi/Charts)**
 
-## 📱 Devices
+## Devices
  - **iphone**
 
-## 🌎 Languages 
+## Languages 
  - **english (USA)**
  - **русский** 
 
-## 🖋️ Сopyright
+## Сopyright
  <td>Icons by <a href="https://icons8.ru">Icons8</a></td> 
+  
+## Privacy
+- Two installation options are available:
+    - download the latest version of the app from the <a href="https://apps.apple.com/us/app/design-patterns-the-beginning/id6445992650">AppStore</a>
+    - request access to <a href="https://github.com/NovikovaOlga/Patterns_AppStore">Private GitHub</a> by contacting <a href="https://github.com/NovikovaOlga">me</a>
+  
+## Installing and launching 
