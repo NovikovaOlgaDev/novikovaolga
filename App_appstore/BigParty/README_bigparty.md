@@ -52,13 +52,6 @@ There are 3 game options available in the app:
    <p> 3D models of third-party authors from the portal were used: https://sketchfab.com/feed </p> 
  
 <p>
- 
-## Particles (for collision)
-<p>
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/gif_bigparty/particle2.gif">
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/gif_bigparty/particle1.gif">
-<p>
- 
 <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p1.png">  
 <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p2.png">   
 <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/p3.png">  
@@ -84,6 +77,13 @@ There are 3 game options available in the app:
 <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/f17.png">  
  
  </p>
+ 
+ ## Particles (for collision)
+<p>
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/gif_bigparty/particle2.gif">
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/gif_bigparty/particle1.gif">
+<p>
+ 
   
 ## Technologies
  - **UIKit**
