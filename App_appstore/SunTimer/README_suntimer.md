@@ -17,6 +17,8 @@
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen6.png">
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen7.png">
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen8.png">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/video_tantimer/video1.gif">
+
  <p>
 
 ## Technologies
