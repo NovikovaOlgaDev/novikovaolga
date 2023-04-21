@@ -18,7 +18,12 @@
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen7.png">
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/images_suntimer/screen8.png">
    <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/video_tantimer/video1.gif">
-
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/video_tantimer/video2.gif">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/video_tantimer/video3.gif">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/video_tantimer/video4.gif">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/video_tantimer/video5.gif">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/video_tantimer/video6.gif">
+   <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/SunTimer/video_tantimer/video7.gif">
  <p>
 
 ## Technologies
