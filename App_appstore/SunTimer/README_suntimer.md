@@ -1,4 +1,5 @@
 # Tan timer
+(prior to version 1.2, the application was called Sun timer)
 
 ## 🌞 An application for getting a tan according to the Goltis method.
 
