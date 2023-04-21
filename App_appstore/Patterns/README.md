@@ -58,7 +58,9 @@ There are 4 tabs available in the application:
  - **User Defaults**
  - **Notification**
  - **Push notification**
- - **FLAnimatedImage**
+ - **UserNotifications** 
+ - **Animation**
+  - **FLAnimatedImage**
  - **Charts**
 
 ## Libraries
