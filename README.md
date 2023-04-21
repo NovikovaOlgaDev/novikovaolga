@@ -59,7 +59,7 @@
       <td> Neural networks and not only </td>
       <td> <a href="https://github.com/NovikovaOlga/CatFaceLine">GitHub</a></td>
     </tr>
-     <td><img src="https://github.com/NovikovaOlga/Weather/blob/main/screen/icon.jpeg" width="80px"></td>
+     <td><img src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Weather/icon.jpeg" width="80px"></td>
       <td> Weather App (openweathermap) </td>
       <td> <a href="https://github.com/NovikovaOlga/Weather">GitHub</a></td>
     </tr>
