@@ -93,6 +93,9 @@ There are 3 game options available in the app:
  - **SceneKit**
  - **User Defaults**
  - **Push notification**
+ - **OptionSet(for collision)**
+ - **model (.usdz)**
+ - **Animation**
 
 ## Devices
  - **iPhone**
