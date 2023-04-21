@@ -41,7 +41,7 @@
 ## 📚 Libraries
 
  - **[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)**
- - **[Charts](https://github.com/danielgindi/Charts)](https://github.com/danielgindi/Charts)**
+ - **[Charts](https://github.com/danielgindi/Charts)**
 
 ## 📱 Devices
  - **iphone**
