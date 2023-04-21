@@ -10,7 +10,7 @@
 <p> An application that will help you learn popular design patterns at the initial level. </p>
 
 <p>
-  <img style="width: 180px;" src=" ttps://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/gif_patterns/video1.gif">
+  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/gif_patterns/video1.gif">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/images_patterns/screen1.png">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/images_patterns/screen2.png">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/Patterns/images_patterns/screen3.png">
