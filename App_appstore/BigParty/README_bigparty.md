@@ -2,7 +2,11 @@
 
 ## 🦄Feeding adorable little animals in augmented reality. 
 
-## 🚀 Capabilities
+## Description
+ <p> </p>
+
+
+## Capabilities
 <p> Augmented reality technologies will allow your child to feed adorable pets anywhere. </p>
 
 <p>
@@ -15,8 +19,10 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen7.jpeg">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/App_appstore/BigParty/images_bigparty/screen8.png">
  <p>
+  
+## 3D Model
 
-## 🛠️ Technologies
+## Technologies
  - **UIKit**
  - **MVC** 
  - **Autolayout**
@@ -26,11 +32,11 @@
  - **User Defaults**
  - **Push notification**
 
-## 📱 Devices
+## Devices
  - **iPhone**
  - **iPad**
 
-## 🌎 Languages 
+## Languages 
  - **English (USA)**
  - **Русский** 
  - **Suomalainen** 
@@ -43,8 +49,10 @@
  - **中国语文科** 
  - **日本语** 
    
-## 🖋️ Сopyright
+## Сopyright
  <td>Icons by <a href="https://icons8.ru">Icons8</a></td> <br />
  <td>Icons by <a href="https://www.flaticon.com">Freepik-Flaticon</a></td> <br />
  <td>Sounds by <a href="https://freesound.org">Freesound</a></td> <br />
  <td>3D Models by <a href="https://sketchfab.com/feed">Sketchfab</a></td> 
+  
+  ## Installing and launching
