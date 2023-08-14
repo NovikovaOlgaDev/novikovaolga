@@ -110,7 +110,7 @@
 ---
 
 ### 🔥 My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovikovaOlga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovikovaOlgaDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NovikovaOlga&theme=highcontrast&border_radius=4&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NovikovaOlgaDev&theme=highcontrast&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
