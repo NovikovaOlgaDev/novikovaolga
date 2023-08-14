@@ -57,7 +57,7 @@
     </tr>
       <td><img src="https://github.com/NovikovaOlgaDev/novikovaolga/blob/main/Other/CatFaceLine/icon.png" width="80px"></td>
       <td> Neural networks and not only </td>
-      <td> <a href="https://github.com/NovikovaOlgaDev/CatFaceLine">GitHub</a></td>
+      <td> <a href="https://github.com/NovikovaOlgaDev/CatFaceFlat">GitHub</a></td>
     </tr>
      <td><img src="https://github.com/NovikovaOlgaDev/novikovaolga/blob/main/Other/Weather/icon.jpeg" width="80px"></td>
       <td> Weather App (openweathermap) </td>
